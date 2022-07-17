@@ -1,0 +1,1 @@
+Calculate the power of given number and find out how much time it took
